@@ -25,7 +25,7 @@
 <p align="left">
 Estoy abierto a nuevas oportunidades y colaboraciones. Si deseas saber más sobre mí o conversar sobre cómo puedo contribuir a tu equipo:  
   
-<a href="https://linkedin.com/in/alvarogenetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvarogenetti" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alvaro-genetti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvarogenetti" height="30" width="40" /></a>
 </p>
 
 ---
