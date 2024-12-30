@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Álvaro Genetti</h1>
 <h3 align="center">💻 Estudiante avanzado de Ingeniería en Sistemas de Información próximo a graduarme, apasionado por la tecnología y próximo a graduarme. Siempre abierto a oportunidades laborales para aportar con mis conocimientos y habilidades al equipo en el que participe.</h3>
 
-
 [comment]: <> (<p align="left"> <img src="https://komarev.com/ghpvc/?username=alvarogenetti&label=Profile%20views&color=0e75b6&style=flat" alt="alvarogenetti" /> </p>)
+
 ---
 
 ## 🌟 Sobre mí  
