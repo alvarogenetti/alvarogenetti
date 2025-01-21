@@ -40,8 +40,6 @@ Estoy abierto a nuevas oportunidades y colaboraciones. Si deseas saber más sobr
 
 ---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvarogenetti&show_icons=true&locale=en&layout=compact" alt="alvarogenetti" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alvarogenetti&show_icons=true&locale=en" alt="alvarogenetti" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alvarogenetti&" alt="alvarogenetti" /></p>
